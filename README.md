@@ -1,6 +1,12 @@
-Welcome to Kumarbuildspro Python Playground! 🐍
-​Yeh web app khaas beginners aur students ke liye design kiya gaya hai taaki aap bina kisi heavy setup ya installation ke, seedha apne browser mein Python sikh saken, live code run kar saken aur interactive quizzes se apni practice kar saken.
-​Yeh toh bas shuruaat hai! Jaise-jaise aapka learning journey aage badhega, waise-waise yeh platform bhi aapke sath grow karta rahega. Future mein hum isme naye modules, advanced projects, real-world coding tools aur exciting challenges add karte rahenge taaki aapka Python master banne ka sapna poora ho sake.
+# Welcome to Kumarbuildspro Python Playground! 🐍
+
+---
+
+​# Yeh web app khaas beginners aur students ke liye design kiya gaya hai taaki aap bina kisi heavy setup ya installation ke, seedha apne browser mein Python sikh saken, live code run kar saken aur interactive quizzes se apni practice kar saken.
+
+---
+
+# ​Yeh toh bas shuruaat hai! Jaise-jaise aapka learning journey aage badhega, waise-waise yeh platform bhi aapke sath grow karta rahega. Future mein hum isme naye modules, advanced projects, real-world coding tools aur exciting challenges add karte rahenge taaki aapka Python master banne ka sapna poora ho sake.
 
 ---
 
